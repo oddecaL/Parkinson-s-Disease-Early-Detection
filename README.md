@@ -18,16 +18,4 @@ The data utilized in this study is sourced from public domains via Kaggle. It co
 * **Synthetic Dataset:** Artificial patient symptom data used to augment the training process. 
   * [Parkinson's Disease Synthetic Dataset](https://www.kaggle.com/datasets/miadul/parkinsons-disease-synthetic-dataset?resource=download)
 * **Actual Medical Study Dataset:** Ground-truth clinical data containing biomedical voice measurements from individuals with and without Parkinson's Disease.
-  * *[Insert Link to the Actual Dataset Here - e.g., UCI Machine Learning Repository Dataset]*
-
-## ⚙️ Tech Stack & Requirements
-* **Language:** Python 3.x
-* **Deep Learning Framework:** TensorFlow / PyTorch *(Update based on your stack)*
-* **Data Manipulation:** Pandas, NumPy
-* **Data Visualization:** Matplotlib, Seaborn
-* **Environment:** Jupyter Notebook / Google Colab
-
-## 🚀 Setup and Installation
-1. Clone this repository to your local machine:
-   ```bash
-   git clone [https://github.com/your-username/parkinsons-gan-detection.git](https://github.com/your-username/parkinsons-gan-detection.git)
+  * *[[Dataset taken as the actual trial](https://www.kaggle.com/datasets/gargmanas/parkinsonsdataset)]*
