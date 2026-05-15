@@ -18,4 +18,4 @@ The data utilized in this study is sourced from public domains via Kaggle. It co
 * **Synthetic Dataset:** Artificial patient symptom data used to augment the training process. 
   * [Parkinson's Disease Synthetic Dataset](https://www.kaggle.com/datasets/miadul/parkinsons-disease-synthetic-dataset?resource=download)
 * **Actual Medical Study Dataset:** Ground-truth clinical data containing biomedical voice measurements from individuals with and without Parkinson's Disease.
-  * *[[Dataset taken as the actual trial](https://www.kaggle.com/datasets/gargmanas/parkinsonsdataset)]*
+  * [Dataset taken as the actual trial](https://www.kaggle.com/datasets/gargmanas/parkinsonsdataset)
